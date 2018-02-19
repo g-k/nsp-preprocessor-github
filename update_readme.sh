@@ -13,7 +13,7 @@ An [NSP](https://github.com/nodesecurity/nsp) input processor for URLs
 
 For check for vulnerabilities in node.js dependencies in projects:
 
-* without cloning large repos
+* without cloning large repos (or checking out specific branches or tags)
 
 * with non-standard verion file names
 
