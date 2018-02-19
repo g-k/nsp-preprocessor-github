@@ -15,7 +15,7 @@ For check for vulnerabilities in node.js dependencies in projects:
 
 * without cloning large repos (or checking out specific branches or tags)
 
-* with non-standard verion file names
+* with non-standard version file names
 
 * with multiple package.json and other version files (e.g. if we have
   version files at \`https://github.com/me/myrepo/blob/master/frontend\`
