@@ -1,6 +1,6 @@
 {
   "name": "nsp-preprocessor-url",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "An nsp (node security project/platform) input processor for urls",
   "main": "index.js",
   "scripts": {
