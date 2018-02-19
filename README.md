@@ -1,6 +1,6 @@
 # NSP URL preprocessor
 
-An (NSP)[https://github.com/nodesecurity/nsp] input processor for URLs
+An [NSP](https://github.com/nodesecurity/nsp) input processor for URLs
 
 
 ## use cases
