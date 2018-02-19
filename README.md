@@ -24,7 +24,7 @@ To install:
 ```console
 npm install -g nsp nsp-preprocessor-url
 /usr/local/bin/nsp -> /usr/local/lib/node_modules/nsp/bin/nsp
-+ nsp-preprocessor-url@0.2.0
++ nsp-preprocessor-url@0.2.1
 + nsp@3.2.1
 updated 2 packages in 4.094s
 ```
