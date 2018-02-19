@@ -92,7 +92,7 @@ module.exports = {
       }
 
       if (args.verbose) {
-        console.info('updating nsp args with:', newArgs);
+        console.debug('updating nsp args with:', newArgs);
       }
 
       // throw an error so we don't use package.json from args.path
