@@ -1,0 +1,26 @@
+{
+  "name": "nsp-preprocessor-github",
+  "version": "0.1.0",
+  "description": "An nsp (node security project/platform) input processor for github orgs and repos",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/g-k/nsp-preprocessor-github.git"
+  },
+  "keywords": [
+    "nsp",
+    "preprocessor",
+    "input",
+    "security",
+    "github"
+  ],
+  "author": "secops+nsp@mozilla.com",
+  "license": "MPL-2.0",
+  "bugs": {
+    "url": "https://github.com/g-k/nsp-preprocessor-github/issues"
+  },
+  "homepage": "https://github.com/g-k/nsp-preprocessor-github#readme"
+}
