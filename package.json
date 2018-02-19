@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/g-k/nsp-preprocessor-github/issues"
   },
-  "homepage": "https://github.com/g-k/nsp-preprocessor-github#readme"
+  "homepage": "https://github.com/g-k/nsp-preprocessor-github#readme",
+  "devDependencies": {
+    "nsp": "^3.2.1"
+  }
 }
