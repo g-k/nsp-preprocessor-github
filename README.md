@@ -19,6 +19,12 @@ For check for vulnerabilities in node.js dependencies in projects:
 
 ## example usage
 
+To install:
+
+```console
+npm install -g nsp nsp-preprocessor-url
+```
+
 To fetch and check standard version file names (`package.json`,`npm-shrinkwrap.json` and `package-lock.json`):
 
 ```console
