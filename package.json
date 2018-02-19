@@ -25,5 +25,8 @@
   "homepage": "https://github.com/g-k/nsp-preprocessor-url#readme",
   "devDependencies": {
     "nsp": "^3.2.1"
+  },
+  "dependencies": {
+    "got": "^8.2.0"
   }
 }
