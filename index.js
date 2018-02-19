@@ -71,7 +71,7 @@ module.exports = {
     if (urlArgs.size <= 0) {
       throw new Error('Missing url args.');
     } else if (!urlArgs.has('package.json')) {
-      throw new Error('Missing required URL for package.json');
+      throw new Error('Missing required URL for package.json (use --url or --pkg-url if the filename isn\'t package.json)');
     }
 
     return fetchJson(urlArgs).then(values => {
