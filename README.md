@@ -25,7 +25,7 @@ To fetch and check standard version file names (`package.json`,`npm-shrinkwrap.j
 nsp check --preprocessor url --url https://github.com/mozilla-services/ip-reputation-js-client/blob/master/
 ```
 
-For non-standard version file names use args `--pkg-url`, `--shrinkwrap-url`, `--pkg-lock-url`:
+For non-standard version file names use args `--pkg-url`, `--shrinkwrap-url`, `--pkg-lock-url` respectively:
 
 ```console
 nsp check --preprocessor url --pkg-url https://github.com/mozilla-services/ip-reputation-js-client/blob/master/weird-pkg.json
