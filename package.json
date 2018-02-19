@@ -3,9 +3,6 @@
   "version": "0.1.1",
   "description": "An nsp (node security project/platform) input processor for urls",
   "main": "index.js",
-  "scripts": {
-    "test": "node test/test.js"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/g-k/nsp-preprocessor-url.git"
