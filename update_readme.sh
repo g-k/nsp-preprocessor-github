@@ -90,9 +90,6 @@ Bad response from \`--url\` (406 since we can't fetch JSON directly from github)
 nsp check --preprocessor url --url https://github.com/mozilla-services/ip-reputation-js-client/blob/master/ --verbose
 $(nsp check --preprocessor url --url https://github.com/mozilla-services/ip-reputation-js-client/blob/master/ --verbose 2>&1)
 \`\`\`
-
-
-
 EOF
 
 ## if the readme changed in unexpected ways the command is broken or we're offline
